@@ -1,0 +1,5 @@
+{
+    "python.pythonPath":"C:/Users/15631/Anaconda3/python.exe",
+
+    "python.formatting.provider": "yapf"
+}
